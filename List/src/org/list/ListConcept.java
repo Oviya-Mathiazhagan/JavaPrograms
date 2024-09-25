@@ -27,6 +27,8 @@ public class ListConcept {
 		
 		Object object = li.get(4);
 		System.out.println(object); */
+
+		//Object------superclass of all datatypes
 		
 		for(int i = 0;i < li.size();i++) {
 			Object object = li.get(i);
